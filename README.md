@@ -62,7 +62,6 @@ This is a Flask-based web application designed to predict house prices based on 
 ---
 
 ## Model Details
-- *Model Algorithm:* [e.g., Linear Regres
-sion or Decision Tree]
+- *Model Algorithm:* [e.g., Linear Regression or Decision Tree]
 - *Implementation:* The model was trained using a simple algorithm implemented from scratch or with a library like scikit-learn.
 - *Training Features:* Utilized the selected features from the dataset to train the model.
